@@ -1,16 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=deaaff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a06cd5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0fdff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!;Sou+Maria+Luiza;Seja+Bem-Vindo!;Aqui+está+um+pouquinho+sobre+mim+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f72585&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!;Sou+Maria+Luiza;Seja+Bem-Vindo!;Aqui+está+um+pouquinho+sobre+mim+:%29)](https://git.io/typing-svg)
 
-<p>Eu sou Maria Luiza, atualmente estou no 4° período do curso Sistemas de Informação e na jornada para conhecer cada vez mais a área de tecnologia,
-em busca de preencher minha mochila com muita prática, experiência e conhecimento.</p> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,100:a06cd5&height=100&section=header&text=Atualmente+estou+no+4°+período+do+curso+Sistemas+de+Informação.-nl-Me+encontro+em+uma+jornada+para+conhecer+cada+vez+mais+a+área+de+tecnologia.-nl-Sempre+em+busca+de+preencher+minha+mochila+com+muita+prática,+experiência+e+conhecimento.&fontSize=16"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=malu-repossi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Luiza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu-repossi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=malu-repossi&show_icons=true&count_private=true&hide_border=true&title_color=10002b&icon_color=10002b&text_color=10002b&bg_color=a06cd5" alt="Maria Luiza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu-repossi&layout=compact&hide_border=true&title_color=10002b&text_color=10002b&bg_color=a06cd5" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=malu-repossi&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=malu-repossi&bg_color=0d1117&color=f72585&line=a06cd5&point=a06cd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ### Meu conhecimento até agora:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,4 +24,4 @@ em busca de preencher minha mochila com muita prática, experiência e conhecime
 <a href="https://www.linkedin.com/in/maria-luiza-repossi-paiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f72585&height=120&section=footer"/>
